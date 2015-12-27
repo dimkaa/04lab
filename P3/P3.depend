@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1448792985 source:f:\прогр\lab4\p3\main.cpp
+	<iostream>
+	"string.h"
+	"sdt.h"
+
+1443162709 f:\прогр\lab4\p3\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1449151222 source:e:\прогр\lab4\p3\main.cpp
+	<iostream>
+	"string.h"
+	"sdt.h"
+
+1443162709 e:\прогр\lab4\p3\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1449151222 source:g:\прогр\lab4\p3\main.cpp
+	<iostream>
+	"string.h"
+	"sdt.h"
+
+1443162709 g:\прогр\lab4\p3\sdt.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<map>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+

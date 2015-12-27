@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1449164803 source:f:\прогр\lab4\p4\main.cpp
+	<iostream>
+	"string.h"
+	"stdio.h"
+
+1450281761 source:e:\прогр\lab4\p4\main.cpp
+	<iostream>
+	"string.h"
+	"stdio.h"
+
+1450430959 source:g:\прогр\lab4\p4\main.cpp
+	<iostream>
+	"string.h"
+	"stdio.h"
+
